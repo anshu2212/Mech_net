@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mechnet", "Mechnet\Mechnet.csproj", "{CD656B03-8756-42A5-B26F-40BE927C0452}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MECHIES", "MECHIES\MECHIES.vdproj", "{438B6632-B1D7-4802-9211-97636AA1099B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD656B03-8756-42A5-B26F-40BE927C0452}.Debug|x86.ActiveCfg = Debug|x86
+		{CD656B03-8756-42A5-B26F-40BE927C0452}.Debug|x86.Build.0 = Debug|x86
+		{CD656B03-8756-42A5-B26F-40BE927C0452}.Release|x86.ActiveCfg = Release|x86
+		{CD656B03-8756-42A5-B26F-40BE927C0452}.Release|x86.Build.0 = Release|x86
+		{438B6632-B1D7-4802-9211-97636AA1099B}.Debug|x86.ActiveCfg = Debug
+		{438B6632-B1D7-4802-9211-97636AA1099B}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
